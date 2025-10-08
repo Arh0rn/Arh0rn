@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Amir Kurmanbekov</h1>
-<h3 align="center">A Backend developer from Kazakhstan</h3>
+<h1 align="center">Hi I'm Amir Kurmanbekov</h1>
+<h3 align="center">A Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arh0rn&label=Profile%20views&color=0e75b6&style=flat" alt="Arh0rn" /> </p>
 
-- 🌱 I’m currently practicing **Go Backend Developing**
+-  I’m currently practicing **Go Backend Developing**
 
 - 📫 How to reach me **amir.kurmanbekov@gmail.com**
   
